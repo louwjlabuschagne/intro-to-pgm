@@ -1,0 +1,7 @@
+probability;variable;mean
+prior;firstCoin;0.5
+prior;secondCoin;0.5
+prior;bothHeads;0.2525
+posterior;firstCoin;0.5
+posterior;secondCoin;1
+posterior;bothHeads;0.517
